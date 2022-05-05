@@ -1,0 +1,2 @@
+CYAN = 0x00ffff
+PINK = 0xFE9AC9

@@ -1,0 +1,7 @@
+1. Make start and non db pick commmand with buttons and menus.
+
+2. setuup venv for discord.py versions
+
+3. os.environ["JISHAKU_HIDE"] = "True"
+os.environ["JISHAKU_NO_UNDERSCORE"] = "True"
+os.environ["JISHAKU_NO_DM_TRACEBACK"] = "True"
